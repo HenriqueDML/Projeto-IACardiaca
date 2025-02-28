@@ -2,10 +2,10 @@
  
 # IACardiaca- Saúde Cardiaca!
 
-![Logo do Projeto](img/a1.jpeg)
-![Logo do Projeto](img/a2.jpeg)
-![Logo do Projeto](img/a3.jpeg)
-![Logo do Projeto](img/a4.jpeg)
+![imagem](img/a1.jpeg)
+![imagem1](img/a2.jpeg)
+![imagem2](img/a3.jpeg)
+![imagem3](img/a4.jpeg)
 
 
 ## Descritivo:
