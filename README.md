@@ -2,10 +2,10 @@
  
 # IACardiaca- Saúde Cardiaca!
 
-![imagem](img/a1.jpeg)
-![imagem1](img/a2.jpeg)
-![imagem2](img/a3.jpeg)
-![imagem3](img/a4.jpeg)
+![imagem](img/1a.jpeg)
+![imagem1](img/2a.jpeg)
+![imagem2](img/3a.jpeg)
+![imagem3](img/4a.jpeg)
 
 
 ## Descritivo:
