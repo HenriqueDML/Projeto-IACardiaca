@@ -2,12 +2,6 @@
  
 # IACardiaca- Saúde Cardiaca!
 
-![imagem](img/1a.jpeg)
-![imagem1](img/2a.jpeg)
-![imagem2](img/3a.jpeg)
-![imagem3](img/4a.jpeg)
-
-
 ## Descritivo:
 
 Neste projeto, busquei ajudar a diagnosticar pessoas com riscos cardíacos por meio de uma Inteligência Artificial que analisa os dados fornecidos, como peso, pressão arterial, colesterol, entre outros. Além disso, utilizei essas informações para gerar gráficos, facilitando a leitura dos resultados.
@@ -20,3 +14,19 @@ Durante o desenvolvimento do projeto, fui orientado pelo professor Felipe Amaral
 **Técnicos**: Python · Inteligência artificial · Análise de dados · Estatística  · Ciência de dados
 
 **Blibiotecas**: SKLearn · Pandas · NumPy
+
+## Gráfico:
+**Descrição**: Aqui temos os gráficos gerados a partir das bibliotecas, onde podemos ver algumas comparações, entre idade, colesterol e pressão arterial. 
+![imagem](img/4a.jpeg)
+![imagem1](img/3a.jpeg)
+
+## Treinando a IA:
+**Descrição**: Separação e treinamento da IA com os dados fornecidos, e sua acurácia da IA em dizer se a pessoa é cardíaca ou não.
+![imagem2](img/2a.jpeg)
+
+## Conclusão:
+**Descrição**: Na imagem abaixo, realizei o preenchimento dos dados solicitados e podemos ver que resultou numa em riscos vascular.
+![imagem3](img/1a.jpeg)
+
+
+
