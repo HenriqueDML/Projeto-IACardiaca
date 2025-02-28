@@ -17,6 +17,6 @@ Durante o desenvolvimento do projeto, fui orientado pelo professor Felipe Amaral
 
 ## Tecnologias:
 
-**Tecnicos**: Python · Inteligência artificial · Análise de dados · Estatística  · Ciência de dados
+**Técnicos**: Python · Inteligência artificial · Análise de dados · Estatística  · Ciência de dados
 
 **Blibiotecas**: SKLearn · Pandas · NumPy
