@@ -17,6 +17,7 @@ Durante o desenvolvimento do projeto, fui orientado pelo professor Felipe Amaral
 
 ## Gráfico:
 **Descrição**: Aqui temos os gráficos gerados a partir das bibliotecas, onde podemos ver algumas comparações, entre idade, colesterol e pressão arterial. 
+
 ![imagem](img/4a.jpeg)
 ![imagem1](img/3a.jpeg)
 
